@@ -82,6 +82,7 @@ Content-Type: application/json
 
 ### Example: Login
 
+```
 POST /api/auth/login
 Content-Type: application/json
 
@@ -90,6 +91,7 @@ Content-Type: application/json
 "password": "secret123",
 "device_name": "android"
 }
+```
 
 ### All routes access need authentication
 
