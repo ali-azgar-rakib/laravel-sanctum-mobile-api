@@ -23,7 +23,7 @@ Install Docker and make sure it is running in the background.
 1.  Clone the repo
 
 ```
-git clone https://github.com/
+git clone [repo]
 cd your-repo
 
 composer install
